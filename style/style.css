@@ -8,6 +8,7 @@
     background-color: #4EA0FF;
     background-repeat: repeat-x;
     background-position: center;
+    background-position: 0px -60px;  /* Sfondo spostato per leggibilità logo */
     height: 100px;
     width: 100%;
 }
@@ -16,4 +17,54 @@
     height: 40px;
     margin-top: 50px;
     margin-left: 55px;
+}
+
+.margin-div{
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.author-div{
+    display: flex;
+    margin-top: 10px;
+}
+
+.author-link{
+    margin-left: 4.5px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #4EA0FF;
+}
+
+.little-gray-p {
+    font-size: 14px;
+    color: gray;
+}
+
+.tim-img{
+    display: inline;
+    width: 49.5%;
+    margin-top: 10px;
+    height: 220px;
+    object-fit: cover;
+}
+
+.photographers-p{
+    margin-top: 4px;
+    font-size: 8px;
+}
+
+.lorem-p{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+span{
+    background-color: yellow;
+}
+
+.black-p{
+    font-size: 18px;
 }
