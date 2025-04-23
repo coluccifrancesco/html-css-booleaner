@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: "Roboto", sans-serif;
 }
 
 .header-container{
@@ -63,7 +64,7 @@
 .lorem-p{
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 span{
@@ -71,31 +72,49 @@ span{
 }
 
 .black-p{
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .container-table{
-    width: 100%;
     margin-top: 20px;
-    margin-bottom: 10px;
-    background-color: #4EA0FF;
+    margin-bottom: 20px;
+}
+
+.editor-table{
+    height: 150px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
 }
 
 .head-table{
     background-color: #4EA0FF;
     color: white;
     font-size: 10px;
-
+    height: 20px;
 }
 
-.main-table-a{
-    background-color: aqua;
+.rowa-tab{
+    background-color: rgb(173, 255, 255);
+}
+
+.rowb-tab{
+    background-color: white;
+}
+
+.rowa-tab,
+.rowb-tab{
+    font-size: 10px;
+}
+
+.th-a{
+    width: 100px;
 }
 
 .lorem-p-a{
     margin-top: 20px;
     margin-bottom: 30px;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .footer-ada{
