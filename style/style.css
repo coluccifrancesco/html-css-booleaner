@@ -4,7 +4,7 @@
 }
 
 .header-container{
-    background-image: url(/img/pattern.png);
+    background-image: url(/esercizi/html-css-booleaner/img/pattern.png);
     background-size: auto 200px;
     background-color: #4EA0FF;
     background-repeat: repeat-x;
@@ -118,7 +118,7 @@ span{
 }
 
 .footer-ada{
-    background-image: url(/img/monitor.jpg);
+    background-image: url(/esercizi/html-css-booleaner/img/monitor.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     height: 140px;
@@ -128,7 +128,7 @@ span{
 }
 
 .footer-adb{
-    background-image: url(/img/graph.jpg);
+    background-image: url(/esercizi/html-css-booleaner/img/graph.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     height: 140px;
