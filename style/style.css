@@ -124,7 +124,6 @@ span{
     height: 140px;
     width: 100%px;
     margin-top: 10px;
-    cursor: pointer;
 }
 
 .footer-adb{
@@ -134,5 +133,11 @@ span{
     height: 140px;
     width: 100%px;
     margin-top: 10px;
+}
+
+.h5-ad{
+    color: white;
     cursor: pointer;
+    padding-left: 45px;
+    padding-top: 60px;
 }
